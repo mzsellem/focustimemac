@@ -1,6 +1,5 @@
 import {useState } from 'react';
-import { Text, View, StyleSheet, SafeAreaView, Platform, StatusBar} from 'react-native';
-import Constants from 'expo-constants';
+import { StyleSheet, SafeAreaView, Platform, StatusBar} from 'react-native';
 import { colors } from './src/utils/colors';
 import { Focus } from './src/features/focus';
 import { Timer } from './src/features/Timer';
